@@ -21,6 +21,7 @@ export default function loader() {}
 
 export function pitch(request) {
   const options = loaderUtils.getOptions(this) || {};
+  options.inline = true;
 
   validateOptions(schema, options, 'Worklet Loader');
 
