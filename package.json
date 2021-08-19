@@ -1,5 +1,5 @@
 {
-  "name": "worklet-loader",
+  "name": "worklet-loader-inline",
   "version": "2.0.0",
   "author": "Walker Henderson",
   "description": "worklet loader module for webpack",
